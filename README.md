@@ -50,24 +50,11 @@ A smart chatbot built using only **DOM manipulation** with `if-else` conditions.
 - 🎨 Frontend only project with interactive UI   
 - 📦 [Repository](https://github.com/Usha-Sheoran/Smart-Chatbot)  
 
----
-
-## 📊 GitHub Stats  
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Usha-Sheoran&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Usha-Sheoran&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Usha-Sheoran&theme=radical)
-
-</div>
-
----
 
 ## 🌍 Connect With Me  
 
 - 📧 Email: **ushasheoran15@gmail.com**  
-- 💼 [LinkedIn]([https://linkedin.com/in/your-linkedin](https://www.linkedin.com/in/usha-sheoran-950075356/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/usha-sheoran-950075356/))  
 
 
 ---
