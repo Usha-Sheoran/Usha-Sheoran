@@ -54,7 +54,7 @@ A smart chatbot built using only **DOM manipulation** with `if-else` conditions.
 ## 🌍 Connect With Me  
 
 - 📧 Email: **ushasheoran15@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/usha-sheoran-950075356/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/usha-sheoran-950075356/)
 
 
 ---
