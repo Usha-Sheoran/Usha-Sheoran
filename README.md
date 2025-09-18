@@ -5,8 +5,8 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Currently I Have Complete My Full Stack Web developement Course 
--   building projects in **Full-Stack Web Development**  
+- 🎓 Currently I Have Completed My Full Stack Web developement Course 
+-     building projects in **Full-Stack Web Development**  
 - 💡 Skilled in **HTML, CSS, JavaScript, Bootstrap, JQuery, Node.js, Express, PostgreSQL**  
 - 🌱 Exploring **React.js** and advanced frontend designs  
 - 🎯 Goal: To become a **Full Stack Web Developer**  
